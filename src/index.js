@@ -13,7 +13,6 @@ const Header = () => {
 };
 
 
-
 const Player = () => {
     return (
         <div className="player">
@@ -26,7 +25,6 @@ const Player = () => {
 };
 
 
-
 const Counter = () => {
   return (
       <div className="counter">
@@ -36,7 +34,6 @@ const Counter = () => {
       </div>
   );
 };
-
 
 
 const App = () => {
